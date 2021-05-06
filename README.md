@@ -1,5 +1,5 @@
 ## A. Traditional many-to-many voice conversion
-<table style='font-size:90%; overflow: visible; width: 100%;'>
+<table style='font-size:90%; width: 100%;'>
 	<thead>
 	  <tr>
 	    <th></th>
@@ -14,8 +14,8 @@
 	  <tr>
 	    <th scope="row">M2M</th>
 	    <td>
-	      <audio controls="">
-		<source src="audios/VCC2SM1_30004.wav" type="audio/wav" style="width: 30%;">
+	      <audio controls="" style="width: 30%;">
+		<source src="audios/VCC2SM1_30004.wav" type="audio/wav">
 		Your browser does not support the audio element.
 	      </audio>
 	    </td>
