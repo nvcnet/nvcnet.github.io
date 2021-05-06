@@ -2,8 +2,20 @@
 ---
 
 @import "{{ site.theme }}";
-
-table {
+.main-content {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-weight: normal;
+    color: $section-headings-color;
+  }
+ 
+.table {
 	border: 2px solid green;
     width:100%;
     margin: 0px;
@@ -16,8 +28,7 @@ table {
       font-weight: bold;
     }
 
-    th,
-    td {
+    th, td {
       padding: 0.5rem 1rem;
       border: 1px solid $table-border-color;
     }
