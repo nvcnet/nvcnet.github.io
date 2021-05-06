@@ -1,6 +1,6 @@
 ## End-to-End Adversarial Voice Conversion
 
-<table class="table">
+<table class="table" border="1" width="100%" style="margin: 0px;">
 		<thead>
 		  <tr>
 		    <th></th>
