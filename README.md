@@ -1,17 +1,11 @@
 ## A. Traditional many-to-many voice conversion
-
-##### Source 
-<audio controls="controls">
-<source type="audio/wav" src="res/src/p226_337.wav"></source>
-</audio>
-##### Target 
-<audio controls="controls">
-<source type="audio/wav" src="res/tar/p225_331.wav"></source>
-</audio>
-
+## End-to-End Adversarial Voice Conversion
 <table>
 	<thead>
 	  <tr>
+	    <th></th>
+	    <th>Source</th>
+	    <th>Target</th>
 	    <th>NVC-Net<sup>&dagger;</sup></th>
 	    <th>NVC-Net</th>
 	  </tr>
@@ -19,6 +13,47 @@
 
 	<tbody>
 	  <tr>
+	    <th scope="row">Male to Male</th>
+	    <td>
+	      <audio controls="">
+		<source src="audios/VCC2SM1_30004.wav" type="audio/wav">
+		Your browser does not support the audio element.
+	      </audio>
+	    </td>
+	    <td>
+	      <audio controls="">
+		<source src="audios/VCC2SF1_30004.wav" type="audio/wav">
+		Your browser does not support the audio element.
+	      </audio>
+	    </td>
+	    <td>
+	      <audio controls="">
+		<source src="audios/VCC2SF1_VCC2SM1_STARGANVC2_30004.wav" type="audio/wav">
+		Your browser does not support the audio element.
+	      </audio>
+	    </td>
+	    <td>
+	      <audio controls="">
+		<source src="audios/VCC2SF1_VCC2SM1_STARGANVC2PP_30004.wav" type="audio/wav">
+		Your browser does not support the audio element.
+	      </audio>
+	    </td>
+	  </tr>
+
+	<tr>
+	    <th scope="row">Male to Female</th>
+	    <td>
+	      <audio controls="">
+		<source src="audios/VCC2SM1_30004.wav" type="audio/wav">
+		Your browser does not support the audio element.
+	      </audio>
+	    </td>
+	    <td>
+	      <audio controls="">
+		<source src="audios/VCC2SF1_30004.wav" type="audio/wav">
+		Your browser does not support the audio element.
+	      </audio>
+	    </td>
 	    <td>
 	      <audio controls="">
 		<source src="audios/VCC2SF1_VCC2SM1_STARGANVC2_30004.wav" type="audio/wav">
@@ -34,27 +69,49 @@
 	  </tr>
 
 	</tbody>
-</table>
-
-##### Source 
-<audio controls="controls">
-<source type="audio/wav" src="res/src/p226_337.wav"></source>
-</audio>
-##### Target 
-<audio controls="controls">
-<source type="audio/wav" src="res/tar/p225_331.wav"></source>
-</audio>
-
-<table>
-	<thead>
-	  <tr>
-	    <th>NVC-Net<sup>&dagger;</sup></th>
-	    <th>NVC-Net</th>
+	
+	<tr>
+	    <th scope="row">Female to Male</th>
+	    <td>
+	      <audio controls="">
+		<source src="audios/VCC2SM1_30004.wav" type="audio/wav">
+		Your browser does not support the audio element.
+	      </audio>
+	    </td>
+	    <td>
+	      <audio controls="">
+		<source src="audios/VCC2SF1_30004.wav" type="audio/wav">
+		Your browser does not support the audio element.
+	      </audio>
+	    </td>
+	    <td>
+	      <audio controls="">
+		<source src="audios/VCC2SF1_VCC2SM1_STARGANVC2_30004.wav" type="audio/wav">
+		Your browser does not support the audio element.
+	      </audio>
+	    </td>
+	    <td>
+	      <audio controls="">
+		<source src="audios/VCC2SF1_VCC2SM1_STARGANVC2PP_30004.wav" type="audio/wav">
+		Your browser does not support the audio element.
+	      </audio>
+	    </td>
 	  </tr>
-	</thead>
-
-	<tbody>
-	  <tr>
+	
+	<tr>
+	    <th scope="row">Female to Female</th>
+	    <td>
+	      <audio controls="">
+		<source src="audios/VCC2SM1_30004.wav" type="audio/wav">
+		Your browser does not support the audio element.
+	      </audio>
+	    </td>
+	    <td>
+	      <audio controls="">
+		<source src="audios/VCC2SF1_30004.wav" type="audio/wav">
+		Your browser does not support the audio element.
+	      </audio>
+	    </td>
 	    <td>
 	      <audio controls="">
 		<source src="audios/VCC2SF1_VCC2SM1_STARGANVC2_30004.wav" type="audio/wav">
@@ -69,120 +126,6 @@
 	    </td>
 	  </tr>
 
-	</tbody>
 </table>
-
-
-##### Source 
-<audio controls="controls">
-<source type="audio/wav" src="res/src/p226_337.wav"></source>
-</audio>
-##### Target 
-<audio controls="controls">
-<source type="audio/wav" src="res/tar/p225_331.wav"></source>
-</audio>
-
-<table>
-	<thead>
-	  <tr>
-	    <th>NVC-Net<sup>&dagger;</sup></th>
-	    <th>NVC-Net</th>
-	  </tr>
-	</thead>
-
-	<tbody>
-	  <tr>
-	    <td>
-	      <audio controls="">
-		<source src="audios/VCC2SF1_VCC2SM1_STARGANVC2_30004.wav" type="audio/wav">
-		Your browser does not support the audio element.
-	      </audio>
-	    </td>
-	    <td>
-	      <audio controls="">
-		<source src="audios/VCC2SF1_VCC2SM1_STARGANVC2PP_30004.wav" type="audio/wav">
-		Your browser does not support the audio element.
-	      </audio>
-	    </td>
-	  </tr>
-
-	</tbody>
-</table>
-
 
 ## B. Zero-shot voice conversion
-
-##### Source 
-<audio controls="controls">
-<source type="audio/wav" src="res/src/p226_337.wav"></source>
-</audio>
-##### Target 
-<audio controls="controls">
-<source type="audio/wav" src="res/tar/p225_331.wav"></source>
-</audio>
-
-<table>
-	<thead>
-	  <tr>
-	    <th>NVC-Net<sup>&dagger;</sup></th>
-	    <th>NVC-Net</th>
-	  </tr>
-	</thead>
-
-	<tbody>
-	  <tr>
-	    <td>
-	      <audio controls="">
-		<source src="audios/VCC2SF1_VCC2SM1_STARGANVC2_30004.wav" type="audio/wav">
-		Your browser does not support the audio element.
-	      </audio>
-	    </td>
-	    <td>
-	      <audio controls="">
-		<source src="audios/VCC2SF1_VCC2SM1_STARGANVC2PP_30004.wav" type="audio/wav">
-		Your browser does not support the audio element.
-	      </audio>
-	    </td>
-	  </tr>
-
-	</tbody>
-</table>
-
-##### Source 
-<audio controls="controls">
-<source type="audio/wav" src="res/src/p226_337.wav"></source>
-</audio>
-##### Target 
-<audio controls="controls">
-<source type="audio/wav" src="res/tar/p225_331.wav"></source>
-</audio>
-
-<table>
-	<thead>
-	  <tr>
-	    <th>NVC-Net<sup>&dagger;</sup></th>
-	    <th>NVC-Net</th>
-	  </tr>
-	</thead>
-
-	<tbody>
-	  <tr>
-	    <td>
-	      <audio controls="">
-		<source src="audios/VCC2SF1_VCC2SM1_STARGANVC2_30004.wav" type="audio/wav">
-		Your browser does not support the audio element.
-	      </audio>
-	    </td>
-	    <td>
-	      <audio controls="">
-		<source src="audios/VCC2SF1_VCC2SM1_STARGANVC2PP_30004.wav" type="audio/wav">
-		Your browser does not support the audio element.
-	      </audio>
-	    </td>
-	  </tr>
-
-	</tbody>
-</table>
-
-
-
