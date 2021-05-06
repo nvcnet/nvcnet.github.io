@@ -1,6 +1,6 @@
 ## A. Traditional many-to-many voice conversion
 ## End-to-End Adversarial Voice Conversion
-<table>
+<table style='font-family:"Courier New", Courier, monospace; font-size:60%'>
 	<thead>
 	  <tr>
 	    <th></th>
@@ -13,7 +13,7 @@
 
 	<tbody>
 	  <tr>
-	    <th scope="row">Male to Male</th>
+	    <th scope="row">M2M</th>
 	    <td>
 	      <audio controls="">
 		<source src="audios/VCC2SM1_30004.wav" type="audio/wav">
@@ -41,7 +41,7 @@
 	  </tr>
 
 	<tr>
-	    <th scope="row">Male to Female</th>
+	    <th scope="row">M2F</th>
 	    <td>
 	      <audio controls="">
 		<source src="audios/VCC2SM1_30004.wav" type="audio/wav">
@@ -71,7 +71,7 @@
 	</tbody>
 	
 	<tr>
-	    <th scope="row">Female to Male</th>
+	    <th scope="row">F2M</th>
 	    <td>
 	      <audio controls="">
 		<source src="audios/VCC2SM1_30004.wav" type="audio/wav">
@@ -99,7 +99,7 @@
 	  </tr>
 	
 	<tr>
-	    <th scope="row">Female to Female</th>
+	    <th scope="row">F2F</th>
 	    <td>
 	      <audio controls="">
 		<source src="audios/VCC2SM1_30004.wav" type="audio/wav">
