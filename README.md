@@ -6,7 +6,7 @@
 		    <th></th>
 		    <th>Source</th>
 		    <th>Target</th>
-		    <th id="strong">NVC-Net$^{\dagger}$</small></th>
+		    <th id="strong">NVC-Net&dagger;</th>
 		    <th id="strong">NVC-Net</th>
 		  </tr>
 		</thead>
