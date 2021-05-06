@@ -1,5 +1,18 @@
 ## End-to-End Adversarial Voice Conversion
 
+<style type="text/css">
+      table, th, td {
+       border: 2px solid green;
+      }
+      tr.hide_right > td, td.hide_right{
+        border-right-style:hidden;
+      }
+      tr.hide_all > td, td.hide_all{
+        border-style:hidden;
+      }
+  }
+</style>
+
 <table style="width:100%; margin: 0px; border-style:hidden; table-layout: fixed; background-color: transparent; margin-bottom: 1rem; border-spacing: 0;">
 		<thead>
 		  <tr>
