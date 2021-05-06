@@ -1,5 +1,5 @@
 ## A. Traditional many-to-many voice conversion
-<table style='font-family:"Courier New", Courier, monospace; font-size:60%'>
+<table style='font-size:90%'>
 	<thead>
 	  <tr>
 	    <th></th>
