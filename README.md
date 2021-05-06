@@ -14,25 +14,25 @@
 	  <tr>
 	    <th scope="row">M2M</th>
 	    <td>
-	      <audio controls="" style="width: 50%;">
+	      <audio controls="" style="width: 70%;">
 		<source src="audios/VCC2SM1_30004.wav" type="audio/wav">
 		Your browser does not support the audio element.
 	      </audio>
 	    </td>
 	    <td>
-	      <audio controls="" style="width: 50%;">
+	      <audio controls="" style="width: 70%;">
 		<source src="audios/VCC2SF1_30004.wav" type="audio/wav">
 		Your browser does not support the audio element.
 	      </audio>
 	    </td>
 	    <td>
-	      <audio controls="" style="width: 50%;">
+	      <audio controls="" style="width: 70%;">
 		<source src="audios/VCC2SF1_VCC2SM1_STARGANVC2_30004.wav" type="audio/wav">
 		Your browser does not support the audio element.
 	      </audio>
 	    </td>
 	    <td>
-	      <audio controls="" style="width: 50%;">
+	      <audio controls="" style="width: 70%;">
 		<source src="audios/VCC2SF1_VCC2SM1_STARGANVC2PP_30004.wav" type="audio/wav">
 		Your browser does not support the audio element.
 	      </audio>
@@ -42,25 +42,25 @@
 	<tr>
 	    <th scope="row">M2F</th>
 	    <td>
-	      <audio controls="" style="width: 50%;">
+	      <audio controls="" style="width: 70%;">
 		<source src="audios/VCC2SM1_30004.wav" type="audio/wav">
 		Your browser does not support the audio element.
 	      </audio>
 	    </td>
 	    <td>
-	      <audio controls="" style="width: 50%;">
+	      <audio controls="" style="width: 70%;">
 		<source src="audios/VCC2SF1_30004.wav" type="audio/wav">
 		Your browser does not support the audio element.
 	      </audio>
 	    </td>
 	    <td>
-	      <audio controls="" style="width: 50%;">
+	      <audio controls="" style="width: 70%;">
 		<source src="audios/VCC2SF1_VCC2SM1_STARGANVC2_30004.wav" type="audio/wav">
 		Your browser does not support the audio element.
 	      </audio>
 	    </td>
 	    <td>
-	      <audio controls="" style="width: 50%;">
+	      <audio controls="" style="width: 70%;">
 		<source src="audios/VCC2SF1_VCC2SM1_STARGANVC2PP_30004.wav" type="audio/wav">
 		Your browser does not support the audio element.
 	      </audio>
@@ -72,25 +72,25 @@
 	<tr>
 	    <th scope="row">F2M</th>
 	    <td>
-	      <audio controls="" style="width: 50%;">
+	      <audio controls="" style="width: 70%;">
 		<source src="audios/VCC2SM1_30004.wav" type="audio/wav">
 		Your browser does not support the audio element.
 	      </audio>
 	    </td>
 	    <td>
-	      <audio controls="" style="width: 50%;">
+	      <audio controls="" style="width: 70%;">
 		<source src="audios/VCC2SF1_30004.wav" type="audio/wav">
 		Your browser does not support the audio element.
 	      </audio>
 	    </td>
 	    <td>
-	      <audio controls="" style="width: 50%;">
+	      <audio controls="" style="width: 70%;">
 		<source src="audios/VCC2SF1_VCC2SM1_STARGANVC2_30004.wav" type="audio/wav">
 		Your browser does not support the audio element.
 	      </audio>
 	    </td>
 	    <td>
-	      <audio controls="" style="width: 50%;">
+	      <audio controls="" style="width: 70%;">
 		<source src="audios/VCC2SF1_VCC2SM1_STARGANVC2PP_30004.wav" type="audio/wav">
 		Your browser does not support the audio element.
 	      </audio>
@@ -100,25 +100,25 @@
 	<tr>
 	    <th scope="row">F2F</th>
 	    <td>
-	      <audio controls="" style="width: 50%;">
+	      <audio controls="" style="width: 70%;">
 		<source src="audios/VCC2SM1_30004.wav" type="audio/wav">
 		Your browser does not support the audio element.
 	      </audio>
 	    </td>
 	    <td>
-	      <audio controls="" style="width: 50%;">
+	      <audio controls="" style="width: 70%;">
 		<source src="audios/VCC2SF1_30004.wav" type="audio/wav">
 		Your browser does not support the audio element.
 	      </audio>
 	    </td>
 	    <td>
-	      <audio controls=""  style="width: 50%;">
+	      <audio controls=""  style="width: 70%;">
 		<source src="audios/VCC2SF1_VCC2SM1_STARGANVC2_30004.wav" type="audio/wav">
 		Your browser does not support the audio element.
 	      </audio>
 	    </td>
 	    <td>
-	      <audio controls=""  style="width: 50%;">
+	      <audio controls=""  style="width: 70%;">
 		<source src="audios/VCC2SF1_VCC2SM1_STARGANVC2PP_30004.wav" type="audio/wav">
 		Your browser does not support the audio element.
 	      </audio>
