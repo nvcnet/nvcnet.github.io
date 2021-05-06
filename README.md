@@ -3,6 +3,12 @@
 <style type="text/css">
       table, th, td {
        border: 2px solid green;
+       width:100%;
+       margin: 0px;
+       border-style:hidden;
+       table-layout: fixed;
+       background-color: transparent;
+       border-spacing: 0;
       }
       tr.hide_right > td, td.hide_right{
         border-right-style:hidden;
@@ -13,7 +19,7 @@
   }
 </style>
 
-<table style="width:100%; margin: 0px; border-style:hidden; table-layout: fixed; background-color: transparent; margin-bottom: 1rem; border-spacing: 0;">
+<table>
 		<thead>
 		  <tr>
 		    <th></th>
