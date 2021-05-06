@@ -1,5 +1,5 @@
 ## A. Traditional many-to-many voice conversion
-<table style='font-size:90%'>
+<table style='font-size:90%; overflow: visible; width: 100%;'>
 	<thead>
 	  <tr>
 	    <th></th>
