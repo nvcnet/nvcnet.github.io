@@ -1,6 +1,6 @@
 ## End-to-End Adversarial Voice Conversion
 
-<table style="width:100%; margin: 0px; table-layout: fixed; border-collapse: collapse; background-color: transparent; margin-bottom: 1rem;">
+<table style="width:100%; margin: 0px; table-layout: fixed; border-collapse: collapse; background-color: transparent; margin-bottom: 1rem;  word-break: keep-all;">
 		<thead>
 		  <tr>
 		    <th></th>
