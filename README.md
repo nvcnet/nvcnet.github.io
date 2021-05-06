@@ -1,5 +1,4 @@
 ## A. Traditional many-to-many voice conversion
-## End-to-End Adversarial Voice Conversion
 <table style='font-family:"Courier New", Courier, monospace; font-size:60%'>
 	<thead>
 	  <tr>
