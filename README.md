@@ -15,7 +15,7 @@
 	    <th scope="row">M2M</th>
 	    <td>
 	      <audio controls="">
-		<source src="audios/VCC2SM1_30004.wav" type="audio/wav">
+		<source src="audios/VCC2SM1_30004.wav" type="audio/wav" style="width: 30%;">
 		Your browser does not support the audio element.
 	      </audio>
 	    </td>
