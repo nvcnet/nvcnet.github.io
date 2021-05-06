@@ -112,13 +112,13 @@
 	      </audio>
 	    </td>
 	    <td>
-	      <audio controls="">
+	      <audio controls=""  style="width: 50%;">
 		<source src="audios/VCC2SF1_VCC2SM1_STARGANVC2_30004.wav" type="audio/wav">
 		Your browser does not support the audio element.
 	      </audio>
 	    </td>
 	    <td>
-	      <audio controls="">
+	      <audio controls=""  style="width: 50%;">
 		<source src="audios/VCC2SF1_VCC2SM1_STARGANVC2PP_30004.wav" type="audio/wav">
 		Your browser does not support the audio element.
 	      </audio>
