@@ -1,7 +1,7 @@
 ## A. Traditional many-to-many voice conversion
-<table style='width: 100%; border: hidden;'>
+<table style='width: 100%;'>
 	<thead>
-	  <tr style='border: 1px;'>
+	  <tr>
 	    <th></th>
 	    <th>Source</th>
 	    <th>Target</th>
