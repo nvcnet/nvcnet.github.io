@@ -8,11 +8,10 @@ table, td {
     border-style:hidden;
     table-layout: fixed;
     background-color: transparent;
-    border-spacing: 0;
     border-collapse: collapse;
     padding: 2px 2px;
     text-align: center;
-    border: 0;
+    border: none;
 }
 
 th {
@@ -20,14 +19,14 @@ th {
     font-family: 'Open Sans', sans-serif;
     font-weight: 100;
     background-color: transparent;
-    border: 0;
+    border: none;
     font-size: 15px;
     height: 30px;
 }
 
 table tr {
     background-color: transparent;
-    border: 0;
+    border: none;
     font-size: 12px;
     font-weight: normal;
     height: 40px;
