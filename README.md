@@ -1,5 +1,5 @@
 ## A. Traditional many-to-many voice conversion
-<table style='font-size:90%; width: 100%;'>
+<table style='font-size:90%; width: 100%; '>
 	<thead>
 	  <tr>
 	    <th></th>
@@ -14,25 +14,25 @@
 	  <tr>
 	    <th scope="row">M2M</th>
 	    <td>
-	      <audio controls="" style="width: 100%;">
+	      <audio controls="" >
 		<source src="audios/VCC2SM1_30004.wav" type="audio/wav">
 		Your browser does not support the audio element.
 	      </audio>
 	    </td>
 	    <td>
-	      <audio controls="" style="width: 100%;">
+	      <audio controls="" >
 		<source src="audios/VCC2SF1_30004.wav" type="audio/wav">
 		Your browser does not support the audio element.
 	      </audio>
 	    </td>
 	    <td>
-	      <audio controls="" style="width: 100%;">
+	      <audio controls="" >
 		<source src="audios/VCC2SF1_VCC2SM1_STARGANVC2_30004.wav" type="audio/wav">
 		Your browser does not support the audio element.
 	      </audio>
 	    </td>
 	    <td>
-	      <audio controls="" style="width: 100%;">
+	      <audio controls="" >
 		<source src="audios/VCC2SF1_VCC2SM1_STARGANVC2PP_30004.wav" type="audio/wav">
 		Your browser does not support the audio element.
 	      </audio>
@@ -42,25 +42,25 @@
 	<tr>
 	    <th scope="row">M2F</th>
 	    <td>
-	      <audio controls="" style="width: 100%;">
+	      <audio controls="" >
 		<source src="audios/VCC2SM1_30004.wav" type="audio/wav">
 		Your browser does not support the audio element.
 	      </audio>
 	    </td>
 	    <td>
-	      <audio controls="" style="width: 100%;">
+	      <audio controls="" >
 		<source src="audios/VCC2SF1_30004.wav" type="audio/wav">
 		Your browser does not support the audio element.
 	      </audio>
 	    </td>
 	    <td>
-	      <audio controls="" style="width: 100%;">
+	      <audio controls="" >
 		<source src="audios/VCC2SF1_VCC2SM1_STARGANVC2_30004.wav" type="audio/wav">
 		Your browser does not support the audio element.
 	      </audio>
 	    </td>
 	    <td>
-	      <audio controls="" style="width: 100%;">
+	      <audio controls="" >
 		<source src="audios/VCC2SF1_VCC2SM1_STARGANVC2PP_30004.wav" type="audio/wav">
 		Your browser does not support the audio element.
 	      </audio>
@@ -72,25 +72,25 @@
 	<tr>
 	    <th scope="row">F2M</th>
 	    <td>
-	      <audio controls="" style="width: 100%;">
+	      <audio controls="" >
 		<source src="audios/VCC2SM1_30004.wav" type="audio/wav">
 		Your browser does not support the audio element.
 	      </audio>
 	    </td>
 	    <td>
-	      <audio controls="" style="width: 100%;">
+	      <audio controls="" >
 		<source src="audios/VCC2SF1_30004.wav" type="audio/wav">
 		Your browser does not support the audio element.
 	      </audio>
 	    </td>
 	    <td>
-	      <audio controls="" style="width: 100%;">
+	      <audio controls="" >
 		<source src="audios/VCC2SF1_VCC2SM1_STARGANVC2_30004.wav" type="audio/wav">
 		Your browser does not support the audio element.
 	      </audio>
 	    </td>
 	    <td>
-	      <audio controls="" style="width: 100%;">
+	      <audio controls="" >
 		<source src="audios/VCC2SF1_VCC2SM1_STARGANVC2PP_30004.wav" type="audio/wav">
 		Your browser does not support the audio element.
 	      </audio>
@@ -100,25 +100,25 @@
 	<tr>
 	    <th scope="row">F2F</th>
 	    <td>
-	      <audio controls="" style="width: 100%;">
+	      <audio controls="" >
 		<source src="audios/VCC2SM1_30004.wav" type="audio/wav">
 		Your browser does not support the audio element.
 	      </audio>
 	    </td>
 	    <td>
-	      <audio controls="" style="width: 100%;">
+	      <audio controls="" >
 		<source src="audios/VCC2SF1_30004.wav" type="audio/wav">
 		Your browser does not support the audio element.
 	      </audio>
 	    </td>
 	    <td>
-	      <audio controls=""  style="width: 100%;">
+	      <audio controls=""  >
 		<source src="audios/VCC2SF1_VCC2SM1_STARGANVC2_30004.wav" type="audio/wav">
 		Your browser does not support the audio element.
 	      </audio>
 	    </td>
 	    <td>
-	      <audio controls=""  style="width: 100%;">
+	      <audio controls=""  >
 		<source src="audios/VCC2SF1_VCC2SM1_STARGANVC2PP_30004.wav" type="audio/wav">
 		Your browser does not support the audio element.
 	      </audio>
