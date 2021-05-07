@@ -5,7 +5,6 @@
 
 
 table, td {
-    border-style:hidden;
     table-layout: fixed;
     background-color: transparent;
     border-collapse: collapse;
@@ -15,22 +14,20 @@ table, td {
 
 th {
     padding: 3px 10px;
-    font-family: 'Open Sans', sans-serif;
     font-weight: 100;
     background-color: transparent;
-    font-size: 15px;
     height: 30px;
 }
 
 table tr {
     background-color: transparent;
-    font-size: 12px;
     font-weight: normal;
     height: 40px;
 }
 
 table, tr, td {
     border: hidden;
+    border-style: hidden;
 }
 
 audio {
