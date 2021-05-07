@@ -1,5 +1,5 @@
 ## A. Traditional many-to-many voice conversion
-<table style='font-size:90%; width: 100%; '>
+<table style='width: 100%;'>
 	<thead>
 	  <tr>
 	    <th></th>
@@ -12,7 +12,7 @@
 
 	<tbody>
 	  <tr>
-	    <th scope="row">M2M</th>
+	    <th scope="row">Male to male</th>
 	    <td>
 	      <audio controls="" >
 		<source src="audios/VCC2SM1_30004.wav" type="audio/wav">
@@ -40,7 +40,7 @@
 	  </tr>
 
 	<tr>
-	    <th scope="row">M2F</th>
+	    <th scope="row">Male to Female</th>
 	    <td>
 	      <audio controls="" >
 		<source src="audios/VCC2SM1_30004.wav" type="audio/wav">
@@ -70,7 +70,7 @@
 	</tbody>
 	
 	<tr>
-	    <th scope="row">F2M</th>
+	    <th scope="row">Female to male</th>
 	    <td>
 	      <audio controls="" >
 		<source src="audios/VCC2SM1_30004.wav" type="audio/wav">
@@ -98,7 +98,7 @@
 	  </tr>
 	
 	<tr>
-	    <th scope="row">F2F</th>
+	    <th scope="row">Female to female</th>
 	    <td>
 	      <audio controls="" >
 		<source src="audios/VCC2SM1_30004.wav" type="audio/wav">
