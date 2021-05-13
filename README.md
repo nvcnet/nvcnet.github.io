@@ -1,7 +1,7 @@
 ## Abstract
 
 ## Samples
-### A. Traditional many-to-many voice conversion
+### A. Traditional voice conversion
 <table style='width: 100%;'>
 	<thead>
 	  <tr>
@@ -18,25 +18,25 @@
 	    <th scope="row">M2M</th>
 	    <td>
 	      <audio controls="" >
-		<source src="audios/VCC2SM1_30004.wav" type="audio/wav">
+		<source src="resources/audio/M2M_source.wav" type="audio/wav">
 		Your browser does not support the audio element.
 	      </audio>
 	    </td>
 	    <td>
 	      <audio controls="" >
-		<source src="audios/VCC2SF1_30004.wav" type="audio/wav">
+		<source src="resources/audio/M2M_target.wav" type="audio/wav">
 		Your browser does not support the audio element.
 	      </audio>
 	    </td>
 	    <td>
 	      <audio controls="" >
-		<source src="audios/VCC2SF1_VCC2SM1_STARGANVC2_30004.wav" type="audio/wav">
+		<source src="resources/audio/M2M_nvcneto.wav" type="audio/wav">
 		Your browser does not support the audio element.
 	      </audio>
 	    </td>
 	    <td>
 	      <audio controls="" >
-		<source src="audios/VCC2SF1_VCC2SM1_STARGANVC2PP_30004.wav" type="audio/wav">
+		<source src="resources/audio/M2M_nvcnet.wav" type="audio/wav">
 		Your browser does not support the audio element.
 	      </audio>
 	    </td>
