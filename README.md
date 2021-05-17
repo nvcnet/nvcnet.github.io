@@ -76,7 +76,7 @@ Audio samples are taken from the VCTK data set [1].
 	    </td>
 	  </tr>
 
-	</tbody>
+	
 	
 	<tr>
 	    <th scope="row">F2M</th>
@@ -133,6 +133,7 @@ Audio samples are taken from the VCTK data set [1].
 	      </audio>
 	    </td>
 	  </tr>
+   </tbody>
 
 </table>
 
@@ -196,9 +197,6 @@ Audio samples are taken from the VCTK data set [1].
 	      </audio>
 	    </td>
 	  </tr>
-
-	</tbody>
-	
 	<tr>
 	    <th scope="row">U2U</th>
 	    <td>
@@ -220,6 +218,7 @@ Audio samples are taken from the VCTK data set [1].
 	      </audio>
 	    </td>
 	  </tr>
+    </tbody>
 </table>
 
 **S2U**: Seen to unseen; **U2S**: Unseen to seen; **U2U**: Unseen to seen 
@@ -227,25 +226,45 @@ Audio samples are taken from the VCTK data set [1].
 
 ### C. Diversity
 
-Source
+#### Source
 <audio controls="" >
  <source src="resources/audio/U2U_target.wav" type="audio/wav">
 		Your browser does not support the audio element.
 </audio>
 
-Target
+#### Target
 <audio controls="" >
  <source src="resources/audio/U2U_target.wav" type="audio/wav">
 		Your browser does not support the audio element.
 </audio>
 
-Samples produced by NVC-Net
-<audio controls="" >
- <source src="resources/audio/U2U_target.wav" type="audio/wav">
+#### Samples produced by NVC-Net
+<table style='width: 100%;'>
+	<tr>
+	    <td>
+	      <audio controls="" >
+		<source src="resources/audio/U2S_source.wav" type="audio/wav">
 		Your browser does not support the audio element.
-</audio>
+	      </audio>
+	    </td>
+	    <td>
+	      <audio controls="" >
+		<source src="resources/audio/U2S_target.wav" type="audio/wav">
+		Your browser does not support the audio element.
+	      </audio>
+	    </td>
+	    <td>
+	      <audio controls="" >
+		<source src="resources/audio/U2S_nvcnet.wav" type="audio/wav">
+		Your browser does not support the audio element.
+	      </audio>
+	    </td>
+	  </tr>
+</table>
 
-#### References
+
+
+### References
 [1] [C. Veaux, J. Yamagishi, and K. MacDonald. Superseded - cstr vctk corpus: English multi-speaker corpus
 for cstr voice cloning toolkit, 2017.](http://datashare.is.ed.ac.uk/handle/10283/2651)
 
