@@ -1,7 +1,7 @@
 ## Abstract
+Voice conversion has recently gained increasing popularity in many applications of speech synthesis. The idea is to change the speaker identity from one into another while keeping other linguistic components unchanged. Many voice conversion approaches rely on the use of a vocoder for speech synthesis, and as a consequence, the speech quality heavily depends on such a vocoder. In this paper, we propose NVC-Net, an end-to-end adversarial network, which performs voice conversion from the raw audio waveform of arbitrary length. By disentangling the representation of the speaker identity from the content, NVC-Net is able to perform not only nonparallel traditional many-to-many voice conversion, but also zero-shot voice conversion from a short utterance of an unseen target speaker. More importantly, NVC-Net is non-autoregressive and fully convolutional, allowing fast inference. Our model is capable of producing samples at a rate of more than 3600 kHz on an NVIDIA V100 GPU, being orders of magnitude faster than state-of-the art methods under the same hardware configurations. Objective and subjective evaluations on nonparallel many-to-many voice conversion tasks show that NVC-Net obtains competitive results with significantly fewer parameters.
 
-## Code
-Will be available soon ...
+<img align="center" src="resource/image/overview.png" style="width:600px;" />
 
 ## Samples
 
@@ -228,13 +228,13 @@ Audio samples are taken from the VCTK data set [1].
 
 #### Source
 <audio controls="" >
- <source src="resources/audio/U2U_target.wav" type="audio/wav">
+ <source src="resources/audio/source.wav" type="audio/wav">
 		Your browser does not support the audio element.
 </audio>
 
 #### Target
 <audio controls="" >
- <source src="resources/audio/U2U_target.wav" type="audio/wav">
+ <source src="resources/audio/target.wav" type="audio/wav">
 		Your browser does not support the audio element.
 </audio>
 
@@ -243,19 +243,19 @@ Audio samples are taken from the VCTK data set [1].
 	<tr>
 	    <td>
 	      <audio controls="" >
-		<source src="resources/audio/U2S_source.wav" type="audio/wav">
+		<source src="resources/audio/sample_1.wav.wav" type="audio/wav">
 		Your browser does not support the audio element.
 	      </audio>
 	    </td>
 	    <td>
 	      <audio controls="" >
-		<source src="resources/audio/U2S_target.wav" type="audio/wav">
+		<source src="resources/audio/sample_3.wav.wav" type="audio/wav">
 		Your browser does not support the audio element.
 	      </audio>
 	    </td>
 	    <td>
 	      <audio controls="" >
-		<source src="resources/audio/U2S_nvcnet.wav" type="audio/wav">
+		<source src="resources/audio/sample_7.wav" type="audio/wav">
 		Your browser does not support the audio element.
 	      </audio>
 	    </td>
