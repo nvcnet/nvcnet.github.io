@@ -246,5 +246,6 @@ Samples produced by NVC-Net
 </audio>
 
 #### References
-[1] [Cassia Valentini-Botinhao. Noisy speech database for training speech enhancement algorithms and TTSmodels, 2016 .University of Edinburgh. School of Informatics. Centre for Speech TechnologyResearch (CSTR), 2017.](http://dx.doi.org/10.7488/ds/2117)
+[1] [C. Veaux, J. Yamagishi, and K. MacDonald. Superseded - cstr vctk corpus: English multi-speaker corpus
+for cstr voice cloning toolkit, 2017.](http://datashare.is.ed.ac.uk/handle/10283/2651)
 
