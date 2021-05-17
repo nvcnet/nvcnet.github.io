@@ -269,6 +269,5 @@ Audio samples are taken from the VCTK data set [1].
 
 
 ### References
-[1] [C. Veaux, J. Yamagishi, and K. MacDonald. Superseded - cstr vctk corpus: English multi-speaker corpus
-for cstr voice cloning toolkit, 2017.](http://datashare.is.ed.ac.uk/handle/10283/2651)
+[1] [Veaux, Christophe; Yamagishi, Junichi; MacDonald, Kirsten. (2017). CSTR VCTK Corpus: English Multi-speaker Corpus for CSTR Voice Cloning Toolkit, [sound]. University of Edinburgh. The Centre for Speech Technology Research (CSTR). https://doi.org/10.7488/ds/1994](http://datashare.is.ed.ac.uk/handle/10283/2651)
 
