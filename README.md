@@ -5,6 +5,8 @@ Will be available soon ...
 
 ## Samples
 
+Audio samples are taken from the VCTK data set [1].
+
 ### A. Traditional voice conversion
 <table style='width: 100%;'>
 	<thead>
@@ -223,4 +225,26 @@ Will be available soon ...
 **S2U**: Seen to unseen; **U2S**: Unseen to seen; **U2U**: Unseen to seen 
 
 
+### C. Diversity
+
+Source
+<audio controls="" >
+ <source src="resources/audio/U2U_target.wav" type="audio/wav">
+		Your browser does not support the audio element.
+</audio>
+
+Target
+<audio controls="" >
+ <source src="resources/audio/U2U_target.wav" type="audio/wav">
+		Your browser does not support the audio element.
+</audio>
+
+Samples produced by NVC-Net
+<audio controls="" >
+ <source src="resources/audio/U2U_target.wav" type="audio/wav">
+		Your browser does not support the audio element.
+</audio>
+
+#### References
+[1] [Cassia Valentini-Botinhao. Noisy speech database for training speech enhancement algorithms and TTSmodels, 2016 .University of Edinburgh. School of Informatics. Centre for Speech TechnologyResearch (CSTR), 2017.](http://dx.doi.org/10.7488/ds/2117)
 
