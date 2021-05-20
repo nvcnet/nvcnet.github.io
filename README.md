@@ -256,8 +256,13 @@ NVC-Net can synthesize diverse samples by changing the latent representation of 
 	</tbody>
 </table>
 
-#### Samples produced by NVC-Net
+
 <table style='width: 100%;'>
+	<thead>
+	  <tr>
+	    <th colspan="3">Samples produced by NVC-Net</th>
+	  </tr>
+	</thead>
 	<tbody>
 	  <tr>
 	    <td>
@@ -284,8 +289,46 @@ NVC-Net can synthesize diverse samples by changing the latent representation of 
 
 ### **D. Additional studies**
 
+<table style='width: 100%;'>
+	<thead>
+	  <tr>
+	    <th>Source</th>
+	    <th>Target</th>
+	    <th>NVC-Net wo</th>
+	    <th>NVC-Net w</th>
+	  </tr>
+	</thead>
+	<tbody>
+	  <tr>
+	    <td>
+	      <audio controls="" >
+		<source src="resources/audio/source_a.wav" type="audio/wav">
+		Your browser does not support the audio element.
+	      </audio>
+	    </td>
+	    <td>
+	      <audio controls="" >
+		<source src="resources/audio/target_a.wav" type="audio/wav">
+		Your browser does not support the audio element.
+	      </audio>
+	    </td>
+	    <td>
+	      <audio controls="" >
+		<source src="resources/audio/nvcnet_wo.wav" type="audio/wav">
+		Your browser does not support the audio element.
+	      </audio>
+	    </td>	
+	    <td>
+	      <audio controls="" >
+		<source src="resources/audio/nvcnet_w.wav" type="audio/wav">
+		Your browser does not support the audio element.
+	      </audio>
+	    </td>		  
+	  </tr>
+	</tbody>
+</table>
 
 
-### References
+## <span style="color:black"> ** References ** </span>
 [1] [Veaux, Christophe; Yamagishi, Junichi; MacDonald, Kirsten. (2017). CSTR VCTK Corpus: English Multi-speaker Corpus for CSTR Voice Cloning Toolkit, [sound]. University of Edinburgh. The Centre for Speech Technology Research (CSTR). https://doi.org/10.7488/ds/1994](http://datashare.is.ed.ac.uk/handle/10283/2651)
 
