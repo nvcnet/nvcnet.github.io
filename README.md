@@ -302,29 +302,55 @@ NVC-Net can synthesize diverse samples by changing the latent representation of 
 	  <tr>
 	    <td>
 	      <audio controls="" >
-		<source src="resources/audio/source_a.wav" type="audio/wav">
+		<source src="resources/audio/sample_12_0-95_source.wav" type="audio/wav">
 		Your browser does not support the audio element.
 	      </audio>
 	    </td>
 	    <td>
 	      <audio controls="" >
-		<source src="resources/audio/target_a.wav" type="audio/wav">
+		<source src="resources/audio/sample_12_0-95_target.wav" type="audio/wav">
 		Your browser does not support the audio element.
 	      </audio>
 	    </td>
 	    <td>
 	      <audio controls="" >
-		<source src="resources/audio/nvcnet_wo.wav" type="audio/wav">
+		<source src="resources/audio/sample_12_0-95_wo.wav" type="audio/wav">
 		Your browser does not support the audio element.
 	      </audio>
 	    </td>	
 	    <td>
 	      <audio controls="" >
-		<source src="resources/audio/nvcnet_w.wav" type="audio/wav">
+		<source src="resources/audio/sample_12_0-95_w.wav" type="audio/wav">
 		Your browser does not support the audio element.
 	      </audio>
 	    </td>		  
 	  </tr>
+	 <tr>
+	    <td>
+	      <audio controls="" >
+		<source src="resources/audio/sample_18_0-78_source.wav" type="audio/wav">
+		Your browser does not support the audio element.
+	      </audio>
+	    </td>
+	    <td>
+	      <audio controls="" >
+		<source src="resources/audio/sample_18_0-78_target.wav" type="audio/wav">
+		Your browser does not support the audio element.
+	      </audio>
+	    </td>
+	    <td>
+	      <audio controls="" >
+		<source src="resources/audio/sample_18_0-78_wo.wav" type="audio/wav">
+		Your browser does not support the audio element.
+	      </audio>
+	    </td>	
+	    <td>
+	      <audio controls="" >
+		<source src="resources/audio/sample_18_0-78_w.wav" type="audio/wav">
+		Your browser does not support the audio element.
+	      </audio>
+	    </td>		  
+	  </tr>		
 	</tbody>
 </table>
 
