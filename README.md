@@ -1,11 +1,11 @@
-## Abstract
+## **Abstract**
 <div style="text-align: justify"> 
 Voice conversion has recently gained increasing popularity in many applications of speech synthesis. The idea is to change the speaker identity from one into another while keeping other linguistic components unchanged. Many voice conversion approaches rely on the use of a vocoder for speech synthesis, and as a consequence, the speech quality heavily depends on such a vocoder. In this paper, we propose NVC-Net, an end-to-end adversarial network, which performs voice conversion from the raw audio waveform of arbitrary length. By disentangling the representation of the speaker identity from the content, NVC-Net is able to perform not only nonparallel traditional many-to-many voice conversion, but also zero-shot voice conversion from a short utterance of an unseen target speaker. More importantly, NVC-Net is non-autoregressive and fully convolutional, allowing fast inference. Our model is capable of producing samples at a rate of more than 3600 kHz on an NVIDIA V100 GPU, being orders of magnitude faster than state-of-the art methods under the same hardware configurations. Objective and subjective evaluations on nonparallel many-to-many voice conversion tasks show that NVC-Net obtains competitive results with significantly fewer parameters.
 </div>
 
 <img align="center" src="resources/image/overview.png" style="width:800px;" />
 
-## Samples
+## **Samples**
 
 Audio samples are taken from the VCTK data set [1].
 
@@ -230,17 +230,25 @@ Zero-shot many-to-many voice conversions are performed from/to speakers that are
 
 ### C. Diversity
 NVC-Net can synthesize diverse samples by changing the latent representation of the speaker embedding. For a given reference utterance, the speaker network produces a Gaussian distribution. This allows us to sample multiple speaker embeddings. 
-#### Source
-<audio controls="" >
- <source src="resources/audio/source.wav" type="audio/wav">
-		Your browser does not support the audio element.
-</audio>
 
-#### Target
-<audio controls="" >
- <source src="resources/audio/target.wav" type="audio/wav">
+<table style='width: 100%;'>
+	<tbody>
+	  <tr>
+	    <td> Source
+	      <audio controls="" >
+		<source src="resources/audio/source.wav" type="audio/wav">
 		Your browser does not support the audio element.
-</audio>
+	      </audio>
+	    </td>
+	    <td> Target
+	      <audio controls="" >
+		<source src="resources/audio/target.wav" type="audio/wav">
+		Your browser does not support the audio element.
+	      </audio>
+	    </td>
+	  </tr>
+	</tbody>
+</table>
 
 #### Samples produced by NVC-Net
 <table style='width: 100%;'>
@@ -268,7 +276,7 @@ NVC-Net can synthesize diverse samples by changing the latent representation of 
 	</tbody>
 </table>
 
-D. Ablation studies
+### D. Ablation studies
 
 
 
