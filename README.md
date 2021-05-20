@@ -288,7 +288,7 @@ NVC-Net can synthesize diverse samples by changing the latent representation of 
 </table>
 
 ### **D. Additional studies**
-
+Below are samples comparing the outputs between _NVC-Net wo_ (without normalization on the content code) and _NVC-Net w_ (with normalization on the content code).
 <table style='width: 100%;'>
 	<thead>
 	  <tr>
