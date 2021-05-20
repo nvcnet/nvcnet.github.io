@@ -329,6 +329,6 @@ NVC-Net can synthesize diverse samples by changing the latent representation of 
 </table>
 
 
-## <span style="color:black"> ** References ** </span>
+## <span style="color:black"> **References** </span>
 [1] [Veaux, Christophe; Yamagishi, Junichi; MacDonald, Kirsten. (2017). CSTR VCTK Corpus: English Multi-speaker Corpus for CSTR Voice Cloning Toolkit, [sound]. University of Edinburgh. The Centre for Speech Technology Research (CSTR). https://doi.org/10.7488/ds/1994](http://datashare.is.ed.ac.uk/handle/10283/2651)
 
