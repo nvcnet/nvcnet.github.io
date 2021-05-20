@@ -10,6 +10,7 @@ Voice conversion has recently gained increasing popularity in many applications 
 Audio samples are taken from the VCTK data set [1].
 
 ### A. Traditional voice conversion
+Traditional many-to-many voice conversions are performed between different speakers that are seen during training. Some samples are presented in the table below.
 <table style='width: 100%;'>
 	<thead>
 	  <tr>
@@ -143,6 +144,7 @@ Audio samples are taken from the VCTK data set [1].
 
 
 ### B. Zero-shot voice conversion
+Zero-shot many-to-many voice conversions are performed from/to speakers that are unseen during training. Some samples are presented in the table below.
 
 
 <table style='width: 100%;'>
@@ -227,7 +229,7 @@ Audio samples are taken from the VCTK data set [1].
 
 
 ### C. Diversity
-
+NVC-Net can synthesize diverse samples by changing the latent representation of the speaker embedding. For a given reference utterance, the speaker network produces a Gaussian distribution. This allows us to sample multiple speaker embeddings. 
 #### Source
 <audio controls="" >
  <source src="resources/audio/source.wav" type="audio/wav">
@@ -265,6 +267,8 @@ Audio samples are taken from the VCTK data set [1].
 	  </tr>
 	</tbody>
 </table>
+
+D. Ablation studies
 
 
 
