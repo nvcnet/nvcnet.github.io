@@ -1,7 +1,6 @@
 ## <span style="color:black">**Abstract**</span> 
 <div style="text-align: justify"> 
-Voice conversion has recently gained increasing popularity in many applications of speech synthesis. The idea is to change the speaker identity from one into another while keeping other linguistic components unchanged. Many voice conversion approaches rely on the use of a vocoder for speech synthesis, and as a consequence, the speech quality heavily depends on such a vocoder. In this paper, we propose NVC-Net, an end-to-end adversarial network, which performs voice conversion from the raw audio waveform of arbitrary length. By disentangling the representation of the speaker identity from the content, NVC-Net is able to perform not only nonparallel traditional many-to-many voice conversion, but also zero-shot voice conversion from a short utterance of an unseen target speaker. More importantly, NVC-Net is non-autoregressive and fully convolutional, allowing fast inference. Our model is capable of producing samples at a rate of more than 3600 kHz on an NVIDIA V100 GPU, being orders of magnitude faster than state-of-the art methods under the same hardware configurations. Objective and subjective evaluations on nonparallel many-to-many voice conversion tasks show that NVC-Net obtains competitive results with significantly fewer parameters.
-</div>
+Voice conversion has gained increasing popularity in many applications of speech synthesis. The idea is to change the voice identity from one speaker into another while keeping the linguistic content unchanged. Many voice conversion approaches rely on the use of a vocoder to reconstruct the speech from acoustic features, and as a consequence, the speech quality heavily depends on such a vocoder. In this paper, we propose NVC-Net, an end-to-end adversarial network, which performs voice conversion directly on the raw audio waveform of arbitrary length. By disentangling the speaker identity from the speech content, NVC-Net is able to perform not only non-parallel traditional many-to-many voice conversion, but also zero-shot voice conversion from a short utterance of an unseen target speaker. More importantly, NVC-Net is non-autoregressive and fully convolutional, achieving fast inference. Our model is capable of producing samples at a rate of more than 3600 kHz on an NVIDIA V100 GPU, being orders of magnitude faster than state-of-the art methods under the same hardware configurations. Objective and subjective evaluations on non-parallel many-to-many voice conversion tasks show that NVC-Net obtains competitive results with significantly fewer parameters.</div>
 
 <img align="center" src="resources/image/overview.png" style="width:800px;" />
 
@@ -288,7 +287,7 @@ NVC-Net can synthesize diverse samples by changing the latent representation of 
 </table>
 
 ### **D. Additional studies**
-Below are samples comparing the outputs between _NVC-Net wo_ (without normalization on the content code) and _NVC-Net w_ (with normalization on the content code).
+Below are samples comparing the outputs between **NVC-Net wo** (without normalization on the content code) and **NVC-Net w** (with normalization on the content code).
 <table style='width: 100%;'>
 	<thead>
 	  <tr>
