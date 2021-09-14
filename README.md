@@ -4,10 +4,7 @@ Voice conversion has gained increasing popularity in many applications of speech
 
 <img align="center" src="resources/image/overview.png" style="width:800px;" />
 
-
-
-Full paper is [here](https://arxiv.org/abs/2106.00992)
-
+Full paper is available at [https://arxiv.org/abs/2106.00992](https://arxiv.org/abs/2106.00992)
 
 ## <span style="color:black"> **Samples** </span>
 
