@@ -9,7 +9,7 @@ Voice conversion has gained increasing popularity in many applications of speech
 
 Full paper is available at [https://arxiv.org/abs/2106.00992](https://arxiv.org/abs/2106.00992).
 
-Code is available at [https://github.com/sony/ai-research-code/nvcnet/](https://github.com/sony/ai-research-code/nvcnet/).
+Code is available at [https://github.com/sony/ai-research-code/tree/master/nvcnet](https://github.com/sony/ai-research-code/tree/master/nvcnet).
 
 
 ## <span style="color:black"> **Samples** </span>
